@@ -1,4 +1,7 @@
-put titles of papers in the titles.csv
-open cmd
-enter the target file (for example, D:/...)
-input python fetch_apa_excel.py(.xlsx as output) or python fetch_apa_word.py (.doc as output)
+<ol>
+<li>put titles of papers in the titles.csv</li>
+<li>open cmd</li>
+<li>enter the target file (for example, D:/...)</li>
+<li>input python fetch_apa_excel.py(.xlsx as output) or python fetch_apa_word.py (.doc as output)</li>
+
+</ol>
